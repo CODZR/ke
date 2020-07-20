@@ -1,0 +1,7 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site DZR"
+
+[params]
+    description = "这里是DZR的个人测试"
+    themeColor = "theme-base-08" # for hyde theme
